@@ -1,0 +1,4 @@
+the character body 2d is the node that can move and it can detect collisions.
+the character body 2d needs a collision shape 2d.
+also add a sprite 2d for the player image.
+match the collision shape with the player image to set its boundaries.
